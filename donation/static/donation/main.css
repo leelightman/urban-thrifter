@@ -271,7 +271,7 @@ select option:hover, select option:focus, select option:active {
 }
 
 .side-bar a:after {
-  content: '▶';
+  content: '\25B6';
   opacity: 0;
   top: 14px;
   transition: 0.5s;
